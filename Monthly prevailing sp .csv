@@ -1,0 +1,22 @@
+Year,Jan,,Feb,,Mar,,Apr.,,May,,Jun.,,Jul.,,Aug.,,Sep.,,Oct.,,Nov.,,Dec.,,Station
+,Spd(Knots),Dir,Spd(Knots),Dir,Spd(Knots),Dir,Spd(Knots),Dir,Spd(Knots),Dir,Spd(Knots),Dir,Spd(Knots),Dir,Spd(Knots),Dir,Spd(Knots),Dir,Spd(Knots),Dir,Spd(Knots),Dir,Spd(Knots),Dir,
+2018,7.8,NNW,7.2,NNW,6.4,SSW,8.6,W  ,8.4,S  ,8.8,S  ,8.4,S  ,8.3,S  ,7.3,S  ,4.9,NNW,5.5,NNW,7.6,NNW,Chattogram_Airport
+2019,7.9,NNW,10.3,NNW,7.3,W  ,7,WSW,7.5,WSW,6.4,S  ,7.8,S  ,6.5,S  ,5.6,SSE,4.1,WNW,4.5,WNW,5.7,NNW,Chattogram_Airport
+2020,4.7,WNW,7.3,NNW,7.2,W  ,7.4,WSW,9.1,S  ,8.2,S  ,8.6,S  ,8.4,SSE,7.5,SSE,7.2,W  ,5,NNE,7.9,NNW,Chattogram_Airport
+2021,5.3,NNE,10.6,NNW,9.2,WNW,6.4,WSW,7.6,WSW,7.3,S  ,7.6,S  ,7.6,S  ,6.1,WSW,5.7,WSW,4.4,NNE,5.8,NNW,Chattogram_Airport
+2022,4.3,N  ,6.3,NNW,8.3,S  ,9.2,SSW,7.9,S  ,8.3,S  ,10.7,SSW,8.2,SSE,6,SSE,7.5,W  ,7.2,NNW,6.8,NNW,Chattogram_Airport
+2018,3.2,W  ,4,W  ,4.7,SW ,5.5,SW ,3.9,S  ,4.6,SE ,4.2,SE ,3.9,S  ,4.3,SE ,3.5,NE ,3.1,W  ,2.7,NE ,Chattogram_Ambagan
+2019,3.9,W  ,4.4,NW ,3.9,W  ,3.9,W  ,5.4,SW ,3.6,S  ,4,S  ,3.7,SE ,4.4,S  ,3.6,SE ,2.9,NW ,3.2,N  ,Chattogram_Ambagan
+2020,3.3,NW ,3.7,NW ,4.6,NW ,5.2,SW ,5.4,S  ,4,S  ,3.9,S  ,4.7,S  ,3.4,SE ,3.2,SE ,2.4,NW ,2.7,N  ,Chattogram_Ambagan
+2021,2.5,N  ,4.2,W  ,3.8,SE ,4.1,W  ,4.2,SW ,4.4,S  ,4.2,S  ,4.2,SE ,3.7,SE ,4.3,S  ,2.8,NW ,2.3,N  ,Chattogram_Ambagan
+2022,3.1,W  ,2.9,N  ,3.5,SW ,3.4,S  ,3.2,S  ,2.8,S  ,2.8,S  ,2.7,SE ,2.4,SE ,2.7,SE ,2.3,N  ,2.7,W  ,Chattogram_Ambagan
+2018,2.7,NW ,2.4,NW ,2.9,NW ,3.2,SE ,3.8,SE ,4.1,SE ,4.5,SE ,4.3,SE ,3,SE ,1.9,NW ,2.5,NW ,2.9,NW ,Kutubdia
+2019,3,NW ,2.6,NW ,2.9,NW ,3,S  ,3.7,S  ,3.7,S  ,4.3,S  ,3.8,SE ,3.1,SE ,1.9,SE ,2.1,NW ,2,NW ,Kutubdia
+2020,2,NW ,2.1,NW ,2.2,NW ,2.3,S  ,3.1,SE ,3.2,SE ,3,SE ,3,S  ,2.4,S  ,2.4,SE ,1.5,NW ,1.6,NW ,Kutubdia
+2021,1.8,NW ,2.2,NW ,2.4,SE ,2.6,SE ,3,SE ,3.5,SE ,2.9,SE ,2.9,SE ,3,SE ,2.6,SE ,2.3,SE ,2.4,NW ,Kutubdia
+2022,2.3,NW ,2.3,NW ,2.3,NW ,3.1,SE ,3.2,SE ,3.9,SE ,3.2,SE ,3.5,SE ,3,SE ,2.6,NW ,2.3,NW ,2.2,NW ,Kutubdia
+2018,1.1,NE ,1.1,SE ,1.2,SE ,1.6,S  ,1.2,SE ,1.3,SE ,1.4,S  ,1.1,SE ,1.3,SE ,1.2,NE ,1,NE ,1.1,NE ,Rangamati
+2019,1,NE ,1.1,NE ,1.3,S  ,1.4,S  ,1.4,S  ,1.2,S  ,1.4,SE ,1.2,SE ,1.2,SE ,1.1,SE ,1.1,NE ,1,NE ,Rangamati
+2020,1,NE ,1.1,NE ,1.3,NE ,1.3,S  ,1.5,S  ,1.4,S  ,1.4,S  ,1.4,S  ,1.1,S  ,1,E  ,1,NE ,1,NE ,Rangamati
+2021,1,NE ,1,NE ,1.6,S  ,1.4,S  ,1.3,S  ,1.2,SE ,1.1,SE ,1,SE ,1,SE ,1.1,E  ,1.1,NW ,1,NE ,Rangamati
+2022,1,NE ,1.1,E  ,1.2,SE ,1.3,S  ,1.1,E  ,1.1,S  ,1,E  ,1.1,S  ,1,E  ,1,E  ,1,NE ,1,NE ,Rangamati
